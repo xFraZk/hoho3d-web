@@ -1,0 +1,19 @@
+[
+  {
+    "categoria": "Filamentos",
+    "icono": "fas fa-layer-group",
+    "url": "/filamentos",
+    "subcategorias": [
+      { "nombre": "PLA", "url": "/filamentos-pla" },
+      { "nombre": "ABS", "url": "/filamentos-abs" }
+    ]
+  },
+  {
+    "categoria": "Impresoras 3D",
+    "icono": "fas fa-print",
+    "url": "/impresoras",
+    "subcategorias": [
+      { "nombre": "Resina", "url": "/impresoras-resina" }
+    ]
+  }
+]

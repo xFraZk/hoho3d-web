@@ -148,5 +148,29 @@
         ]
       }
     ]
+  },
+  {
+    "url": "https://hoho3d.com.ar/productos/pack-de-archivos-stl-para-impresion-3d",
+    "categoria": "Pack Archivos",
+    "icono": "fas fa-shapes",
+    "subcategorias": []
+  },
+  {
+    "url": "https://hoho3d.com.ar/productos/contacto",
+    "categoria": "Contacto",
+    "icono": "fas fa-wrench",
+    "subcategorias": []
+  },
+  {
+    "url": "https://hoho3d.com.ar/productos/formulario-mayorista",
+    "categoria": "Mayorista",
+    "icono": "fas fa-gift",
+    "subcategorias": []
+  },
+  {
+    "url": "https://hoho3d.com.ar/productos/politica-de-devolucion",
+    "categoria": "Política de devolución",
+    "icono": "fas fa-shield-halved",
+    "subcategorias": []
   }
 ]

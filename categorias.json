@@ -16,7 +16,61 @@
           {
             "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
             "nombre": "Nueva Subcategoría",
-            "subcategorias": []
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/",
+                "nombre": "",
+                "subcategorias": [
+                  {
+                    "url": "https://hoho3d.com.ar/productos/",
+                    "nombre": "",
+                    "subcategorias": [
+                      {
+                        "url": "https://hoho3d.com.ar/productos/",
+                        "nombre": "",
+                        "subcategorias": [
+                          {
+                            "url": "https://hoho3d.com.ar/productos/",
+                            "nombre": "",
+                            "subcategorias": [
+                              {
+                                "url": "https://hoho3d.com.ar/productos/",
+                                "nombre": "",
+                                "subcategorias": [
+                                  {
+                                    "url": "https://hoho3d.com.ar/productos/",
+                                    "nombre": "",
+                                    "subcategorias": [
+                                      {
+                                        "url": "https://hoho3d.com.ar/productos/",
+                                        "nombre": "",
+                                        "subcategorias": [
+                                          {
+                                            "url": "https://hoho3d.com.ar/productos/",
+                                            "nombre": "",
+                                            "subcategorias": [
+                                              {
+                                                "url": "https://hoho3d.com.ar/productos/",
+                                                "nombre": "",
+                                                "subcategorias": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },

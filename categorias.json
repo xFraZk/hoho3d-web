@@ -2,42 +2,42 @@
   {
     "categoria": "iMPRESORAS",
     "icono": "fas fa-box",
-    "url": "#",
+    "url": "https://hoho3d.com.ar/productos/impresoras",
     "subcategorias": [
       {
         "nombre": "iMPRESORAS",
-        "url": "A1"
+        "url": "https://hoho3d.com.ar/productos/impresoras"
       },
       {
         "nombre": "BAMBU LAB",
-        "url": "A12"
+        "url": "https://hoho3d.com.ar/productos/bambu-lab"
       },
       {
         "nombre": "AAA",
-        "url": "AAA"
+        "url": "https://hoho3d.com.ar/productos/aaa"
       },
       {
-        "nombre": "",
-        "url": ""
+        "nombre": "SDSDSDSD",
+        "url": "https://hoho3d.com.ar/productos/sdsdsdsd"
       }
     ]
   },
   {
     "categoria": "Nueva",
     "icono": "fas fa-tag",
-    "url": "#",
+    "url": "https://hoho3d.com.ar/productos/nueva",
     "subcategorias": []
   },
   {
     "categoria": "Nueva",
     "icono": "fas fa-tag",
-    "url": "#",
+    "url": "https://hoho3d.com.ar/productos/nueva",
     "subcategorias": []
   },
   {
     "categoria": "Nueva",
     "icono": "fas fa-tag",
-    "url": "#",
+    "url": "https://hoho3d.com.ar/productos/nueva",
     "subcategorias": []
   }
 ]

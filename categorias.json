@@ -12,7 +12,14 @@
       {
         "nombre": "BAMBU LAB",
         "url": "https://hoho3d.com.ar/productos/bambu-lab",
-        "subcategorias": []
+        "subcategorias": [
+          {
+            "nombre": "Nueva Subcategoría",
+            "icono": "fas fa-box",
+            "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
+            "subcategorias": []
+          }
+        ]
       },
       {
         "nombre": "",

@@ -6,15 +6,18 @@
     "subcategorias": [
       {
         "nombre": "iMPRESORAS",
-        "url": "https://hoho3d.com.ar/productos/impresoras"
+        "url": "https://hoho3d.com.ar/productos/impresoras",
+        "subcategorias": []
       },
       {
         "nombre": "BAMBU LAB",
-        "url": "https://hoho3d.com.ar/productos/bambu-lab"
+        "url": "https://hoho3d.com.ar/productos/bambu-lab",
+        "subcategorias": []
       },
       {
         "nombre": "",
-        "url": "https://hoho3d.com.ar/productos/"
+        "url": "https://hoho3d.com.ar/productos/sin-nombre",
+        "subcategorias": []
       }
     ]
   },

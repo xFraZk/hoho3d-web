@@ -21,23 +21,5 @@
         "url": "https://hoho3d.com.ar/productos/"
       }
     ]
-  },
-  {
-    "categoria": "Nueva",
-    "icono": "fas fa-tag",
-    "url": "https://hoho3d.com.ar/productos/nueva",
-    "subcategorias": []
-  },
-  {
-    "categoria": "Nueva",
-    "icono": "fas fa-tag",
-    "url": "https://hoho3d.com.ar/productos/nueva",
-    "subcategorias": []
-  },
-  {
-    "categoria": "Nueva",
-    "icono": "fas fa-tag",
-    "url": "https://hoho3d.com.ar/productos/nueva",
-    "subcategorias": []
   }
 ]

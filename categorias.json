@@ -61,6 +61,91 @@
             "subcategorias": []
           }
         ]
+      },
+      {
+        "url": "https://hoho3d.com.ar/productos/filamentos",
+        "nombre": "Filamentos",
+        "subcategorias": [
+          {
+            "url": "https://hoho3d.com.ar/productos/pla",
+            "nombre": "PLA+",
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/gst3d",
+                "nombre": "GST3D",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/filanova",
+                "nombre": "FILANOVA",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/freemover",
+                "nombre": "FREEMOVER",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/bambu-lab",
+                "nombre": "BAMBU LAB",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/anycubic",
+                "nombre": "ANYCUBIC",
+                "subcategorias": []
+              }
+            ]
+          },
+          {
+            "url": "https://hoho3d.com.ar/productos/petg",
+            "nombre": "PETG",
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/gst3d",
+                "nombre": "GST3D",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/freemover",
+                "nombre": "FREEMOVER",
+                "subcategorias": []
+              }
+            ]
+          },
+          {
+            "url": "https://hoho3d.com.ar/productos/abs",
+            "nombre": "ABS",
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/gst3d",
+                "nombre": "GST3D",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/freemover",
+                "nombre": "FREEMOVER",
+                "subcategorias": []
+              }
+            ]
+          },
+          {
+            "url": "https://hoho3d.com.ar/productos/tpu",
+            "nombre": "TPU",
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/gst3d",
+                "nombre": "GST3D",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/freemover",
+                "nombre": "FREEMOVER",
+                "subcategorias": []
+              }
+            ]
+          }
+        ]
       }
     ]
   }

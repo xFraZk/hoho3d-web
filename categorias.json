@@ -1,83 +1,66 @@
 [
   {
-    "url": "https://hoho3d.com.ar/productos/impresoras",
-    "categoria": "iMPRESORAS",
-    "icono": "fas fa-tags",
+    "url": "https://hoho3d.com.ar/productos/catalogo",
+    "categoria": "Catálogo",
+    "icono": "fas fa-box",
     "subcategorias": [
       {
         "url": "https://hoho3d.com.ar/productos/impresoras",
-        "nombre": "iMPRESORAS",
-        "subcategorias": []
-      },
-      {
-        "url": "https://hoho3d.com.ar/productos/bambu-lab",
-        "nombre": "BAMBU LAB",
+        "nombre": "Impresoras",
         "subcategorias": [
           {
-            "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
-            "nombre": "Nueva Subcategoría",
+            "url": "https://hoho3d.com.ar/productos/impresoras-resina",
+            "nombre": "Impresoras Resina",
             "subcategorias": [
               {
-                "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
-                "nombre": "Nueva Subcategoría",
-                "subcategorias": [
-                  {
-                    "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
-                    "nombre": "Nueva Subcategoría",
-                    "subcategorias": [
-                      {
-                        "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
-                        "nombre": "Nueva Subcategoría",
-                        "subcategorias": [
-                          {
-                            "url": "https://hoho3d.com.ar/productos/nueva-subcategoria",
-                            "nombre": "Nueva Subcategoría",
-                            "subcategorias": [
-                              {
-                                "url": "https://hoho3d.com.ar/productos/",
-                                "nombre": "",
-                                "subcategorias": [
-                                  {
-                                    "url": "https://hoho3d.com.ar/productos/",
-                                    "nombre": "",
-                                    "subcategorias": [
-                                      {
-                                        "url": "https://hoho3d.com.ar/productos/",
-                                        "nombre": "",
-                                        "subcategorias": [
-                                          {
-                                            "url": "https://hoho3d.com.ar/productos/",
-                                            "nombre": "",
-                                            "subcategorias": [
-                                              {
-                                                "url": "https://hoho3d.com.ar/productos/",
-                                                "nombre": "",
-                                                "subcategorias": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
+                "url": "https://hoho3d.com.ar/productos/creality",
+                "nombre": "CREALITY",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/anycubic",
+                "nombre": "Anycubic",
+                "subcategorias": []
               }
             ]
+          },
+          {
+            "url": "https://hoho3d.com.ar/productos/impresoras-fdm",
+            "nombre": "Impresoras FDM",
+            "subcategorias": [
+              {
+                "url": "https://hoho3d.com.ar/productos/flsun",
+                "nombre": "FLSUN",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/creality",
+                "nombre": "CREALITY",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/bambulab",
+                "nombre": "BAMBULAB",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/anycubic",
+                "nombre": "ANYCUBIC",
+                "subcategorias": []
+              },
+              {
+                "url": "https://hoho3d.com.ar/productos/snapmaker",
+                "nombre": "Snapmaker ",
+                "subcategorias": []
+              }
+            ]
+          },
+          {
+            "url": "https://hoho3d.com.ar/productos/curadora-resina",
+            "nombre": "Curadora Resina",
+            "subcategorias": []
           }
         ]
-      },
-      {
-        "url": "https://hoho3d.com.ar/productos/sin-nombre",
-        "nombre": "",
-        "subcategorias": []
       }
     ]
   }

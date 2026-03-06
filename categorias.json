@@ -17,9 +17,27 @@
         "url": "https://hoho3d.com.ar/productos/aaa"
       },
       {
-        "nombre": "SDSDSDSD",
-        "url": "https://hoho3d.com.ar/productos/sdsdsdsd"
+        "nombre": "",
+        "url": "https://hoho3d.com.ar/productos/"
       }
     ]
+  },
+  {
+    "categoria": "Nueva",
+    "icono": "fas fa-tag",
+    "url": "https://hoho3d.com.ar/productos/nueva",
+    "subcategorias": []
+  },
+  {
+    "categoria": "Nueva",
+    "icono": "fas fa-tag",
+    "url": "https://hoho3d.com.ar/productos/nueva",
+    "subcategorias": []
+  },
+  {
+    "categoria": "Nueva",
+    "icono": "fas fa-tag",
+    "url": "https://hoho3d.com.ar/productos/nueva",
+    "subcategorias": []
   }
 ]

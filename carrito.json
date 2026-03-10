@@ -1,0 +1,7 @@
+{
+  "producto1": {
+    "nombre": "Producto de prueba",
+    "precio": 10000,
+    "imagen": "https://via.placeholder.com/150"
+  }
+}
